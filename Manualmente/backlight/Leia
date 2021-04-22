@@ -1,0 +1,2 @@
+Backlight é para o controle de iluminação via teclado
+importar arquivo para /etc/udev/rules.d/backlight.rules e depois sudo usermod -a -G video insert_your_Username_here

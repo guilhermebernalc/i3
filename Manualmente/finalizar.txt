@@ -1,0 +1,8 @@
+sudo pacman -S xfce4-screenshooter xfce4-settings xfce4-terminal xfce4-power-manager-settings xfce4-power-manager  
+sudo pacman -S dmenu rofi arandr nitrogen compton pcmanfm
+sudo pacman -S xdg-user-dirs xdg-utils gnome-kyring libsecret
+sudo pacman -S lightdm-gtk-greeter-settings lightdm lightdm-gtk-greeter
+systemctl enable lightdm
+
+
+sudo pacman -Syyu
